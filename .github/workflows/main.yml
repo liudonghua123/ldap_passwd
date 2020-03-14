@@ -39,7 +39,7 @@ jobs:
         run: |
           mkdir build
           $PUB get
-          $DART2NATIVE bin/main.dart -v -o build/${{ matrix.output-name }}
+          $DART2NATIVE bin/ldap_passwd.dart -v -o build/${{ matrix.output-name }}
         shell: bash
 
       - uses: xresloader/upload-to-github-release@v1
