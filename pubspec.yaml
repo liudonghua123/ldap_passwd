@@ -1,13 +1,16 @@
 name: ldap_passwd
 description: A sample command-line application.
-# version: 1.0.0
-# homepage: https://www.example.com
+version: 0.0.1
+author: Donghua Liu
+homepage: https://liudonghua123.github.io/ldap_passwd
 
 environment:
-  sdk: '>=2.7.0 <3.0.0'
+  sdk: ">=2.7.0 <3.0.0"
 
-#dependencies:
-#  path: ^1.6.0
+dependencies:
+  crypto: ^2.1.4
+  args: ^1.5.3
+  ansicolor: ^1.0.2
 
 dev_dependencies:
   pedantic: ^1.8.0
