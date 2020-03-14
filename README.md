@@ -1,5 +1,6 @@
 # ldap_passwd
 
+![ldap_passwd v0.1.0](https://img.shields.io/pub/v/ldap_passwd.svg)
 ![Build](https://github.com/liudonghua123/ldap_passwd/workflows/Build/badge.svg)
 
 Simple password utility for ldap userPassword writing using dart, you can find some alternatives in other language world.
