@@ -24,12 +24,19 @@ It supports salted:
 
 ### CLI usage
 
-1. download the prebuild binary from the relase page.
-2. pub global activate ldap_passwd # coming soon
+1. download the prebuild binary from the [release](https://github.com/liudonghua123/ldap_passwd/releases) page.
+2. pub global activate ldap_passwd
 
 ### LIB usage
 
 First add this dependence in your `pubspec.yaml` file, then import it in your app.
+
+```yaml
+dependencies:
+  ldap_passwd: ^0.1.0
+```
+
+or
 
 ```yaml
 dependencies:

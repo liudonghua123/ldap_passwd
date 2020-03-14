@@ -1,6 +1,6 @@
 name: ldap_passwd
 description: A simple password utility for ldap userPassword.
-version: 0.0.1
+version: 0.1.0
 homepage: https://liudonghua123.github.io/ldap_passwd
 
 environment:
