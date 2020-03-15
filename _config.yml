@@ -22,7 +22,7 @@ title: ldap_passwd
 email: liudonghua123@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Simple password utility for ldap userPassword writing using dart, you can find some alternatives in other language world.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ldap_passwd" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: liudonghua123
