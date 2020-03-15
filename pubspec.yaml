@@ -1,6 +1,6 @@
 name: ldap_passwd
-description: A simple password utility for ldap userPassword writing using dart, you can find some alternatives in other language world. Similar to Node https://github.com/liudonghua123/ldap-passwd, Python https://github.com/peppelinux/pySSHA-slapd. Two main API provided, generatePassword and checkPassword.
-version: 0.1.2
+description: A simple password utility for ldap userPassword writing using dart, you can find some alternatives in other language world.
+version: 0.1.3
 homepage: https://liudonghua123.github.io/ldap_passwd
 
 environment:

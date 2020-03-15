@@ -14,3 +14,7 @@
 ## 0.1.2
 
 - Add a example
+
+## 0.1.3
+
+- Update project description
