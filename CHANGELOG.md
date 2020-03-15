@@ -10,3 +10,7 @@
 ## 0.1.1
 
 - Fix executable not install correctly.
+
+## 0.1.2
+
+- Add a example
