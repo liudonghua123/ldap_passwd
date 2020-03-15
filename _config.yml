@@ -27,8 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
 github_username: liudonghua123
 
-logo: /assets/logo.png
+logo: assets/logo.png
 show_downloads: true
+
+github:
+  zip_url: "https://github.com/liudonghua123/ldap_passwd/zipball/master"
+  tar_url: "https://github.com/liudonghua123/ldap_passwd/tarball/master"
 
 # Build settings
 theme: jekyll-theme-minimal
